@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>Arrow_mirror.png</file>
+    <file>Arrow.png</file>
+  </qresource>
+</RCC>

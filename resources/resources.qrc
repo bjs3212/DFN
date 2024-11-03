@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>fugue-icons-3.5.6/icons/cross-button.png</file>
+  </qresource>
+</RCC>

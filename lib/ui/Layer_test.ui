@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Layer</class>
+ <widget class="QWidget" name="Layer">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>150</width>
+    <height>73</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">#Layer {
+    background-color: rgba(255,255,120, 128); /* 반투명 빨간색 */
+    border: 2px solid #000000; /* 두께: 2px, 스타일: 실선, 색상: 검정 */
+    border-radius: 5px; /* 테두리 둥글게 설정 (옵션) */
+}
+</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout_2">
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item alignment="Qt::AlignLeft">
+      <widget class="QLabel" name="label_LayerName">
+       <property name="text">
+        <string>LayerName</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <widget class="QPushButton" name="pushButton_SetLayer">
+     <property name="text">
+      <string>Set Layer</string>
+     </property>
+     <property name="flat">
+      <bool>false</bool>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="../resources/deleteLayer.qrc"/>
+ </resources>
+ <connections/>
+</ui>
