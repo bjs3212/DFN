@@ -43,5 +43,5 @@
 - Then, select the data and choose either a sample or a layer. The sample simulates R and T, while the layer simulates S1, S2, E1, E2, etc.
 - After that, click the Fit button.
 - If the simulation is loaded on the graph, you can see the changes in real time.
-
+- If you right-click on a parameter, it toggles between adjustable (blue) and fixed (red) modes, allowing you to lock parameters that you do not want to change.
 
