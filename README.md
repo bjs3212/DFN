@@ -1,6 +1,4 @@
 ## ❓ What is DFN?
-
-![DFN_intro](https://github.com/user-attachments/assets/422adf18-d684-4fb6-9a18-f0d39ead742a)
 ![DFN_introduction_working-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/84ff8118-b318-4ad8-8315-a338fcec9d4c)
 
 - DFN stands for ‘DoFitNow,’ a software tool designed for simulating and fitting optical data, including transmittance and reflectance.
@@ -13,7 +11,13 @@
 - Therefore, all input data must be in Wavenumber (cm⁻¹).
 - Additionally, all parameter units are also in Wavenumber (cm⁻¹).
 
-![DFN_intro_video_1](https://github.com/user-attachments/assets/32e6a531-87d8-49f9-b638-24fa5a0e278b)
+
+
+
+
+
+
+![DFN_introduction_1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8858972e-cf67-4e6a-9858-951b63cb8c0e)
 - You can adjust parameters with slider, or Shift + Mouse wheel.
 - Adjust graph region with Mouse wheel, or with Mouse right button + drag.
 - You can move graph region with Mouse dragging.
@@ -21,14 +25,19 @@
 
 
 
-![DFN_intro_dataLoad](https://github.com/user-attachments/assets/cd0933b9-5f92-492f-9e8f-692b622c1107)
+
+
+
+![DFN_introduction_dataLoad-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a150fd93-12f0-436e-bace-c647145e9de5)
 - You can load data by clicking the Load File button located at the top-left corner of the screen.
 - Next, you need to select the type of data (e.g., R, T, etc.).
 - Once loaded, the data will be displayed on the graph.
 
 
 
-![DFN_intro_fitting](https://github.com/user-attachments/assets/91453ea3-ec46-4d50-98a5-0470facab72f)
+
+
+![DFN_introduction_Fitting-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/94cb5591-84b2-4f62-9eea-44e648d461c1)
 - You can fit the simulation to the data.
 - Click the Add button next to the Fit Item List.
 - Then, select the data and choose either a sample or a layer. The sample simulates R and T, while the layer simulates S1, S2, E1, E2, etc.
