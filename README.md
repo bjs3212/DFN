@@ -1,6 +1,7 @@
 ## ❓ What is DFN?
 
 ![DFN_intro](https://github.com/user-attachments/assets/422adf18-d684-4fb6-9a18-f0d39ead742a)
+![DFN_introduction_working-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/84ff8118-b318-4ad8-8315-a338fcec9d4c)
 
 - DFN stands for ‘DoFitNow,’ a software tool designed for simulating and fitting optical data, including transmittance and reflectance.
 - It allows users to adjust parameters and fit them to experimental data.
